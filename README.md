@@ -17,3 +17,5 @@ Stop screens 1 hour before bed.
 ## Extra bonus thing
 
 Read 1 book every month. Doesn't matter waht it is.
+
+[my reading list](BOOK_LIST.md)
