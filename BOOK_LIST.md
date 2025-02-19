@@ -1,5 +1,7 @@
 ## Books i've read in reverse order
 
+Soul Music - Terry Pratchett
+
 Men at Arms - Terry Pratchett
 
 Lords and Ladies - Terry Pratchett
