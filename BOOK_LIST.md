@@ -1,5 +1,7 @@
 ## Books i've read in reverse order
 
+Seven Myths About Money: And the Truth About Finding Financial Freedom - Rob Dix
+
 Soul Music - Terry Pratchett
 
 Men at Arms - Terry Pratchett
