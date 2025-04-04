@@ -1,5 +1,7 @@
 ## Books i've read in reverse order
 
+Atomic Habits - James Clear
+
 Seven Myths About Money: And the Truth About Finding Financial Freedom - Rob Dix
 
 Soul Music - Terry Pratchett
